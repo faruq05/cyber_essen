@@ -105,7 +105,8 @@ p {
 .social p {
     font-size: 14px;
     text-transform: uppercase;
-    font-weight: 400;
+    font-weight: 500;
+    color: var(--cs-primary);
 }
 
 .social a {
@@ -145,6 +146,10 @@ p {
 }
 
 .nav-link:hover {
+    color: var(--cs-wh);
+}
+
+.navbar-icon i{
     color: var(--cs-wh);
 }
 

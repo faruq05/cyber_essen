@@ -1,0 +1,342 @@
+@media(max-width:1570px){
+    .contact_us {
+        width: 43%;
+        margin-left: auto;
+    }
+}
+
+@media(max-width:1399px){
+    .contact_us {
+        width: 40%;
+        margin-left: auto;
+    }
+}
+
+@media(max-width:1199px){
+    .pricing {
+        width: 80%;
+        margin-top: -100px;
+    }
+
+    .contact_us {
+        width: 39%;
+        margin-left: auto;
+    }
+}
+
+@media(max-width:991px) {
+    .infomed {
+        width: 60%;
+    }
+
+    .info_social {
+        width: 40%;
+    }
+
+    .pricing {
+        width: 100%;
+        margin-top: -100px;
+    }
+
+    .price_card {
+        padding: 20px;
+    }
+
+    .howblock {
+        width: 100%;
+    }
+
+    .how_image {
+        margin-top: 20px;
+    }
+
+    .work_image {
+        margin: 0px 0px 20px 0px;
+    }
+
+    .contact_us {
+        width: 43%;
+        margin-left: auto;
+    }
+
+    iframe {
+        padding-left: 20px;
+    }
+
+    .newsletter_con form {
+        width: 100%;
+    }
+
+    .fimg {
+        width: 20%;
+    }
+
+    .fo_li {
+        width: 80%;
+    }
+
+    .flinks li a {
+        margin-left: 20px;
+    }
+}
+
+@media(max-width:767px) {
+
+    h1 {
+        font-size: 45px;
+    }
+
+    h2 {
+        font-size: 30px;
+        text-align: center;
+    }
+
+    .p-60 {
+        padding: 40px 15px;
+    }
+
+    .infomed {
+        width: 100%;
+    }
+
+    .info_social {
+        width: 100%;
+    }
+
+    .info ul {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .social {
+        padding: 10px 0px;
+        justify-content: center;
+    }
+
+    .nav-item {
+        text-align: center;
+        padding: 2px 0px;
+    }
+
+    .nav-link {
+        padding-right: 0 !important;
+    }
+
+    .hero_content {
+        text-align: center;
+    }
+
+    .pricing {
+        width: 70%;
+        margin: auto;
+        padding: 40px 15px;
+        margin-top: 0;
+    }
+
+    .price_card {
+        padding: 30px;
+        margin-bottom: 25px;
+    }
+
+    .how_image {
+        margin-bottom: 10px;
+    }
+
+    .how_butn {
+        text-align: center;
+    }
+
+    .review_box {
+        margin-bottom: 35px;
+    }
+
+    .work_content {
+        padding: 20px 0px 0px 0px;
+    }
+
+    .contact_us {
+        width: 100%;
+    }
+
+    .contact p {
+        text-align: center;
+    }
+
+    .newsletter_con h2 {
+        font-size: 30px;
+    }
+
+    .newsletter_con form input {
+        width: 100%;
+        margin-bottom: 10px;
+    }
+
+    .newsletter_con form {
+        flex-wrap: wrap;
+        width: 100%;
+
+    }
+
+    .newsletter_con form input[type="submit"] {
+        width: 100%;
+    }
+
+    iframe{
+        padding: 0;
+    }
+
+    .footer_image {
+        text-align: center;
+        margin-bottom: 20px;
+    }
+
+    .flinks {
+        display: block;
+        text-align: center;
+    }
+
+    .flinks li {
+        margin-top: 8px;
+    }
+
+    .flinks li a {
+        margin: 10px 0px 0px 0px;
+    }
+
+    .cc {
+        text-align: center;
+    }
+
+    .cc p {
+        font-size: 12px;
+    }
+
+    .fimg {
+        width: 100%;
+    }
+
+    .fo_li {
+        width: 100%;
+    }
+
+}
+
+@media(max-width:425px) {
+
+    h1 {
+        font-size: 40px;
+    }
+
+    h2 {
+        font-size: 30px;
+        text-align: center;
+    }
+
+    .p-60 {
+        padding: 30px 15px;
+    }
+
+    .info ul {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .social {
+        padding: 10px 0px;
+        justify-content: center;
+    }
+
+    .nav-item {
+        text-align: center;
+        padding: 2px 0px;
+    }
+
+    .nav-link {
+        padding-right: 0 !important;
+    }
+
+    .hero_content {
+        text-align: center;
+    }
+
+    .pricing {
+        width: 100%;
+        padding: 30px 15px;
+        margin-top: 0;
+    }
+
+    .price_card {
+        padding: 30px;
+        margin-bottom: 25px;
+    }
+
+    .how_image {
+        margin-bottom: 10px;
+    }
+
+    .how_butn {
+        text-align: center;
+    }
+
+    .review_box {
+        margin-bottom: 35px;
+    }
+
+    .work_content {
+        padding: 20px 0px 0px 0px;
+    }
+
+    .contact_us {
+        width: 100%;
+    }
+
+    .contact p {
+        text-align: center;
+    }
+
+    .newsletter_con h2 {
+        font-size: 30px;
+    }
+
+    .newsletter_con form input {
+        width: 100%;
+        margin-bottom: 10px;
+    }
+
+    .newsletter_con form {
+        flex-wrap: wrap;
+        width: 100%;
+
+    }
+
+    .newsletter_con form input[type="submit"] {
+        width: 100%;
+    }
+
+    .footer_image {
+        text-align: center;
+        margin-bottom: 20px;
+    }
+
+    .flinks {
+        display: block;
+        text-align: center;
+    }
+
+    .flinks li {
+        margin-top: 8px;
+    }
+
+    .flinks li a {
+        margin: 10px 0px 0px 0px;
+    }
+
+    .cc {
+        text-align: center;
+    }
+
+    .cc p {
+        font-size: 12px;
+    }
+
+}
